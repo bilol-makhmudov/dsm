@@ -19,5 +19,10 @@ ThemeData theme() {
           fontWeight: FontWeight.bold,
           fontSize: 24,
         ),
+        titleSmall: TextStyle(
+          color: Color(0xFF2B2E4A),
+          fontWeight: FontWeight.bold,
+          fontSize: 18,
+        ),
       ));
 }
