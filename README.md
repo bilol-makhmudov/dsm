@@ -2,6 +2,8 @@
 
 Dating Soul Mate
 
+It is going to be a dating app but the candidates will be filtered by their answers to questions. (Users will answer 5-15 questions and then start viewing candidates around)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
